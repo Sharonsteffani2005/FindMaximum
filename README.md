@@ -13,6 +13,7 @@ To write a program to find the maximum of a list of numbers.
 i)	# To find the maximum of marks using the list method sort.
 ```Python
 
+![image](https://github.com/Sharonsteffani2005/FindMaximum/assets/144979934/89801bb2-8f67-4e5f-ba77-70de5bbdc752)
 
 
 ```
