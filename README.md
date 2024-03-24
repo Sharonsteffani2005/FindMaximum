@@ -13,8 +13,6 @@ To write a program to find the maximum of a list of numbers.
 i)	# To find the maximum of marks using the list method sort.
 ```Python
 
-![image](https://github.com/Sharonsteffani2005/FindMaximum/assets/144979934/89801bb2-8f67-4e5f-ba77-70de5bbdc752)
-
 
 ```
 
@@ -35,6 +33,9 @@ iii) # To find the maximum marks without using builtin functions.
 
 
 ## Output:
+
+![image](https://github.com/Sharonsteffani2005/FindMaximum/assets/144979934/428b8da1-e578-4eaa-8bea-a9a1f2742341)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
