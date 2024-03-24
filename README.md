@@ -38,6 +38,8 @@ iii) # To find the maximum marks without using builtin functions.
 
 ![image](https://github.com/Sharonsteffani2005/FindMaximum/assets/144979934/b0987ab7-4a8c-44a8-ad7f-7750cecc6f58)
 
+![image](https://github.com/Sharonsteffani2005/FindMaximum/assets/144979934/6b8a230d-2466-4c0d-b84d-9f9ef5707768)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
